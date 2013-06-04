@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <Button
+        android:id="@+id/goitemfrag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="所有物品"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/goherofrag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="所有英雄"
+        android:visibility="gone" />
+
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:cacheColorHint="@color/transparent"
+        android:divider="@color/transparent"
+        android:dividerHeight="10dp"
+        android:fadingEdge="none"
+        android:scrollbars="none"
+        android:smoothScrollbar="true" />
+
+    <ListView
+        android:id="@+id/listView2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:cacheColorHint="@color/transparent"
+        android:divider="@color/transparent"
+        android:dividerHeight="10dp"
+        android:fadingEdge="none"
+        android:scrollbars="none"
+        android:smoothScrollbar="true" />
+
+</LinearLayout>

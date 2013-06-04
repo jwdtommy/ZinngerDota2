@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <color name="hint_info_around">#bfbfbf</color>
+    <color name="blue">#00f</color>
+    <color name="blackzi">#222222</color>
+    <color name="nullColor">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_white">#d8d8d8</color>
+    <color name="otherc">#0f0f0f</color>
+    <color name="linkcolor">#88000088</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="orange">#FFA500</color>
+    <color name="gray">#bfbfbf</color>
+    <color name="notsend">#504e4e</color>
+    <color name="gray3">#333333</color>
+    <color name="gray4">#e2e2dc</color>
+    <color name="space_text_color">#407eda</color>
+    <color name="indus_text_color">#f3940a</color>
+    <color name="person_text_color">#1d8c07</color>
+    <color name="head_tips">#222222</color>
+    <color name="head_div">#ebebeb</color>
+    <color name="gray_dial">#e71f1f1f</color>
+    <color name="shout_bg">#f7f6f7</color>
+    <color name="black">#000000</color>
+    <color name="function_text_color">#4473ac</color>
+    <color name="bg_industry_person">#ffffff</color>
+    <color name="numberCount">#48D1CC</color>
+    <color name="nameColor">#4f5555</color>
+    <color name="moresearch">#555555</color>
+    <color name="shout_div">#ffe7e7e7</color>
+    <color name="bg_toolbar">#ffe6e9e9</color>
+    <color name="bot_layout">#007cba</color>
+    <color name="contact_detail_item_name_color">#CCCCCCCC</color>
+    <color name="contact_detail_item_value_color">#999999</color>
+    <color name="maintab_uncheck_text_color">#d1d5d7</color>
+    <color name="waiting_text_color">#227700</color>
+    <color name="detail_border_color">#817F80</color>
+    <color name="transparent">#00000000</color>
+    <color name="top_color">#64a7d7</color>
+    <color name="conversation_date_color">#E6E6FA</color>
+    <color name="weibo_comment_color">#ffa4b7d6</color>
+    <color name="weibo_resuorce_color">#ff7d7d7d</color>
+    <color name="weibo_new_time_color">#f7a200</color>
+    <color name="shout_info_around">#888888</color>
+    <color name="grep_white">#e6e6e6</color>
+    <color name="text_hint">#dddddd</color>
+    <color name="shout_forward_textgray">#f6f6f6</color>
+    <color name="contactDividColor">#ffe6e9e9</color>
+    <color name="im_bg">#ffb3d8f5</color>
+    <color name="map_contact_name_color">#80505050</color>
+    <color name="list_divide_color">#fff0f0f0</color>
+    <color name="message_new">#F7A200</color>
+    <color name="invite_local_person_text_color">#005774</color>
+    <color name="gray2">#f0f0f0</color>
+    <color name="text_color_gray">#ff888888</color>
+    <color name="text_name_color"> #1b5898</color>
+    <color name="st_name_color">#2e3143</color>
+    <color name="st_content_color">#444444</color>
+    <color name="st_from_color">#777777</color>
+    <color name="text_content_color">#ff000000</color>
+    <color name="text_redirect_color">#ff000000</color>
+    <color name="indus_toptitle">#ff515151</color>
+    <color name="indus_toptitle_sel">#ffffff</color>
+    <color name="checkin_item_bg1">#c0f0f0f0</color>
+    <color name="checkin_item_bg2">#c0d0d0d0</color>
+    <color name="time_axis">#c0888887</color>
+    <color name="time_axis_text">#22180c</color>
+    <color name="red">#ff0000</color>
+    <color name="space_default_text">#333333</color>
+    <color name="redirect_background">#fff7f7f7</color>
+    <color name="shout_comment_layout_pressed">#ff000020</color>
+    <color name="shout_comment_layout_normal">#fff7f7f7</color>
+    <color name="message_text_unchecked">#999999</color>
+    <color name="message_text_checked">#ffffff</color>
+    <color name="dialogBgColor">#9fff7f</color>
+    <color name="textLinkColor">#1b5898</color>
+    <color name="bg5PG">#f7f7f7</color>
+    <color name="bg_dark">#e5e5e0</color>
+    <color name="leftmenucheck">#3c3c3c</color>
+    <color name="tab_gray">#7e7e7e</color>
+
+    <bool name="default_circle_indicator_centered">true</bool>
+    <bool name="default_circle_indicator_snap">false</bool>
+
+    <color name="default_circle_indicator_fill_color">#FFFFFFFF</color>
+    <color name="default_circle_indicator_page_color">#00000000</color>
+    <color name="default_circle_indicator_stroke_color">#FFDDDDDD</color>
+
+    <integer name="default_circle_indicator_orientation">0</integer>
+
+    <dimen name="default_circle_indicator_radius">3dp</dimen>
+    <dimen name="default_circle_indicator_stroke_width">1dp</dimen>
+
+    <color name="vpi__background_holo_dark">#ff000000</color>
+    <color name="vpi__background_holo_light">#fff3f3f3</color>
+    <color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color>
+    <color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color>
+    <color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color>
+    <color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_frame">#ff1d8c07</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="blue1">#ff0061a9</color>
+    <color name="blue2">#ff86bbe2</color>
+    <color name="red1">#ff9f2a75</color>
+    <color name="red2">#ffb35390</color>
+    <color name="green1">#ff00a918</color>
+    <color name="green2">#ff2b8226</color>
+    <color name="bg_select_blue">#ff5eacdf</color>
+    <color name="listview_diviver_color1">#ffdbe1e7</color>
+    <color name="listview_diviver_color2">#ffffffff</color>
+    <color name="listview_diviver_color3">#ffcfcfcf</color>
+    <color name="listview_diviver_color4">#fff2f2f2</color>
+    <color name="listview_diviver_color5">#ff6ebb34</color>
+    <color name="listview_diviver_color6">#ff66b12c</color>
+    <color name="org_name">#1b5898</color>
+    <color name="local_name">#929292</color>
+
+    <!-- 共同日历 -->
+    <!-- 浅黄色主页背景 -->
+    <color name="calendar_bg">#ffeab2</color>
+    <!-- 黑色字体 -->
+    <color name="typeface_color_black">#232e35</color>
+    <!-- 深黄背景 -->
+    <color name="deep_yellow">#ef8112</color>
+    <!-- 浅黄色背景 -->
+    <color name="light_yellow">#ffb70d</color>
+    <!-- 蓝色背景 -->
+    <color name="bule_bg">#039ef6</color>
+    <!-- 浅灰背景 -->
+    <color name="light_gray_bg">#cccccc</color>
+    <!-- 浅灰字体 -->
+    <color name="typeface_color_gray">#e4e4e4</color>
+    <color name="item_shout_comment_bacgroud">#e6e6e6</color>
+
+</resources>

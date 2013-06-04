@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">dota2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="def_attack">攻击力</string>
+    <string name="def_armor">护甲</string>
+    <string name="def_strong">力量</string>
+    <string name="def_sharp">敏捷</string>
+    <string name="def_intellengence">智力</string>
+    <string name="def_attackrange">攻击范围</string>
+    <string name="def_speed">移动速递</string>
+    <string name="def_hp">生命值</string>
+    <string name="def_mp">魔法值</string>
+    <string name="hero_descrpt">故事背景</string>
+    <string name="hero_info">英雄资料</string>
+    <string name="back">返回</string>
+    <string name="ok">确定</string>
+
+</resources>
